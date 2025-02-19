@@ -1,0 +1,2 @@
+Se definieron las funciones seno y coseno como series de taylor y luego se implementaron dichas funciones desde el modulo math.
+El programa le solicitara a el usuario un Angulo en grados, y automáticamente comparara el resultado obtenido por ambos métodos y arroja si el resultado es igual.

@@ -1,0 +1,2 @@
+El programa le solicitara al usuario las concentraciones de los iones y el kps. El programa comparara el producto iónico  con el valor del kps .
+Después de arrojar el resultado, el programa preguntara si se deseas realizar otro calculo.

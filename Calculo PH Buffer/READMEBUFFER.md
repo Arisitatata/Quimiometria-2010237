@@ -1,0 +1,2 @@
+El programa solicitara la concentración del acido, la concentración de la base y el pKa. El programa calculara automáticamente el ph del buffer.
+Después de calcular el ph, el programa preguntara si se deseas realizar otro calculo.
